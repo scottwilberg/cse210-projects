@@ -15,6 +15,7 @@ public class Scripture
         Random random = new Random();
         int wordsCount = _words.Count;
         // keeps track of instances of hidden words ensuring no duplicates
+        // learned about this form AI
         HashSet<int> hiddenWords = new HashSet<int>();
 
         // Count how many words are already hidden

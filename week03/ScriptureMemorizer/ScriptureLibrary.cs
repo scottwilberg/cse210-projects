@@ -20,7 +20,7 @@ public class ScriptureLibrary
         
         foreach (var line in lines)
         {
-            // got help form AI for this code
+            // asked AI for help with this code
             if (string.IsNullOrWhiteSpace(line)) continue; // Skip empty lines
             {
                 // Split by ~
