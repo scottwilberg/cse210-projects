@@ -1,0 +1,13 @@
+900
+5
+0
+8
+Achievement:Simple Success
+Achievement:Eternal Visionary
+Achievement:Checklist Champion
+Achievement:First Step
+Achievement:Goal Getter
+Achievement:Novice Achiever
+Simple Goal:give a talk,Speak in sacrament meeting when asked,50,True
+Eternal Goal:study the scriptures,study for at least 10 minutes,50
+Checklist Goal:attend the temple,attend and perform any ordinance,50,False,500,4,1

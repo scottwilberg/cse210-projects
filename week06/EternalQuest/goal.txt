@@ -1,0 +1,8 @@
+0
+0
+Achievement:Simple Success
+Achievement:Eternal Visionary
+Achievement:Checklist Champion
+Simple Goal:talk in church,Speak in sacrament meeting when asked,50,False
+Eternal Goal:study the scriptures,study for at least 10 minutes,50
+Checklist Goal:attend the temple,Attend the temple and do a ordinance,100,False,500,3,0
